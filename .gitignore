@@ -1,0 +1,8 @@
+# Ignore the files with extensions
+*.avi
+*.class
+*.jpg
+*.mp4
+*.mpeg
+*.png
+*.pyc
