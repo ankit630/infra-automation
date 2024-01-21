@@ -1,3 +1,5 @@
 This repository is for setting up the infrastructure automation
 
-We would be using different devops tools for infra automation.
+We would be using different devops tools for infra automation in our different environments.
+
+We are also going to add CICD files in this repository
